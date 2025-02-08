@@ -64,6 +64,12 @@
 ![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </br>
 
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
 
 # 📊 GitHub Stats:
