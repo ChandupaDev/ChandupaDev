@@ -64,21 +64,22 @@
 ![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) &nbsp;&nbsp;&nbsp; [![](https://raw.githubusercontent.com/ChandupaJay1/ChandupaJay12/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </br>
 
+<div align="center">
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ChandupaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChandupaDev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+| ![](https://github-readme-stats.vercel.app/api?username=ChandupaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ChandupaDev&theme=dark&hide_border=false) |
+|:-----------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=ChandupaDev&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChandupaDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ChandupaDev&icon=10&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://www.reddit.com/user/Chandupa20/) 
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://www.reddit.com/user/Chandupa20/) 
 
+</div>
 
