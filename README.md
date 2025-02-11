@@ -66,11 +66,12 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
-| ![](https://github-readme-stats.vercel.app/api?username=ChandupaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ChandupaDev&theme=dark&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandupaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChandupaDev&theme=dark&hide_border=false) |
 |:-----------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=ChandupaDev&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaDev&theme=dark&hide_border=false&layout=compact) | ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ChandupaDev&limit=5&theme=dark) |
+
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
