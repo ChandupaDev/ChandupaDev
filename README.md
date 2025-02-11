@@ -68,7 +68,7 @@
 
 ### 📊 GitHub Stats:
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandupaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChandupaDev&theme=dark&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandupaDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChandupaDev&theme=dark&border_radius=2.9&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats) |
 |:-----------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandupaDev&theme=dark&hide_border=false&layout=compact) | ![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ChandupaDev&limit=5&theme=dark) |
 
